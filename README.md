@@ -1,4 +1,6 @@
-# Bitcoin Central
+
+>>>>>>>>>>>>>>>>The Project is Dead<<<<<<<<<<<<<<<<
+# Bitcoin Exchange
 Bitcoin Central powers bitcoin-central.net, a bitcoin trading platform. It is :
 
 * Open Source,
